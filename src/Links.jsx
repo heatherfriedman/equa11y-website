@@ -102,7 +102,15 @@ export default function Links() {
                 Deque axe devTools
               </a>
             </li>
-            <li>Link to our medium articles</li>
+            <li>
+              <a
+                href="https://medium.com/better-programming/introducing-equa11y-a-command-line-testing-tool-for-web-accessibility-aa29205eed55"
+                target="_blank"
+                role="link"
+              >
+                Read our article on Medium
+              </a>
+            </li>
           </ul>
         </div>
       </body>
